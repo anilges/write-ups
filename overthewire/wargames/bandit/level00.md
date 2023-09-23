@@ -1,4 +1,4 @@
-# Level 0:
+# Bandit Level 0, Bandit Level 0 -> Level1:
 
 Here you need to use ssh to login to the given host `bandit.labs.overthewire.org` with the given username `bandit0` as well as the given port `2220` and the given password `bandit0`.
 The password for level 1 can then be found by reading the `readme` file, for example with `cat`.

@@ -1,4 +1,4 @@
-# Level 2:
+# Bandit Level 2 -> Level 3:
 
 Here you have to read the file "spaces in this filename". As it includes spaces, these have to be escaped by using the backslash (`\`).
 
