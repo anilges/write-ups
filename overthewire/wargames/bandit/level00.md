@@ -5,12 +5,9 @@ The password for level 1 can then be found by reading the `readme` file, for exa
 
 ```sh
 user@localhost:~$ ssh bandit0@bandit.labs.overthewire.org -p 2220
-
-bandit0@bandit.labs.overthewire.org's password:
-
+bandit0@bandit.labs.overthewire.org\'s password:
 Welcome to OverTheWire!
 
 bandit0@bandit:~$ cat readme
-
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 ```
